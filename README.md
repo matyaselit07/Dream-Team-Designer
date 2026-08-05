@@ -1,16 +1,39 @@
-# React + Vite
+# JobTracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+- Lightweight job-application tracker built with React and Vite. This project demonstrates component-driven UI, simple client-side navigation without an external router, and accessibility-minded styling..
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [https://matyaselit07.github.io/.../]
 
-## React Compiler
+## Main functions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The project showcases:
 
-## Expanding the Oxlint configuration
+- Dashboard summary of applications, interviews, and offers
+- Simple tab-style navigation implemented with component state (no react-router)
+- Component-based structure (Header, Summary, pages)
+- Mobile-first responsive layout and basic accessibility considerations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Preview
+
+![Screenshot](/src/assets/...)
+
+## Technologies and resources
+
+### Images
+
+### Icons
+
+- Font Awesome: https://fontawesome.com
+- Icons8: https://icons8.com/icons/set/favicon
+
+### Fonts
+
+- **Roboto** – Google Fonts
+  - URL: https://fonts.google.com/specimen/Roboto
+  - License: Apache License 2.0
+
+## Libraries
+
+## Description
