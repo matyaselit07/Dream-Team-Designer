@@ -11,7 +11,7 @@
     "lint": "oxlint",
     "preview": "vite preview"
   },
-  "homepage": ".",
+  "homepage": "https://matyaselit07.github.io/Dream-Team-Designer/",
   "dependencies": {
     "react": "^19.2.8",
     "react-dom": "^19.2.8"

@@ -26,7 +26,6 @@ The project showcases:
 ### Icons
 
 - Font Awesome: https://fontawesome.com
-- Icons8: https://icons8.com/icons/set/favicon
 
 ### Fonts
 
