@@ -1,7 +1,9 @@
+import "./Header.css"
+
 export default function Header() {
   return (
-    <div>
+    <header>
       <h1>It works... for now...</h1>
-    </div>
+    </header>
   );
 }

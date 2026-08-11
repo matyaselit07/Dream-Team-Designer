@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-- [https://matyaselit07.github.io/.../]
+- [https://matyaselit07.github.io/Dream-Team-Designer/]
 
 ## Main functions
 
@@ -19,7 +19,28 @@ The project showcases:
 
 ![Screenshot](/src/assets/...)
 
+## Project Structure
+
+The application is organized into a clear component-based structure to keep the interface modular and maintainable:
+
+```text
+src/
+├── app/
+├── assets/
+├── components/
+│   ├── Footer/
+│   ├── Header/
+│   ├── RecentApplications/
+│   └── Summary/
+└── main.jsx
+```
+
 ## Technologies and resources
+
+- React 19
+- Vite
+- CSS for styling
+- gh-pages for deployment
 
 ### Images
 
