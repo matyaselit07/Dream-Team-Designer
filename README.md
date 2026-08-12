@@ -30,8 +30,7 @@ src/
 ├── components/
 │   ├── Footer/
 │   ├── Header/
-│   ├── RecentApplications/
-│   └── Summary/
+│   └── Applicants/
 └── main.jsx
 ```
 

@@ -1,6 +1,7 @@
 :root {
-  --color-primary: rgb(231, 231, 231);
-  --color-secondary: whitesmoke;
+  --color-primary: #edefde;
+  --color-secondary: #244b71;
+  --color-secondary-light: #fe9000;
 }
 
 * {
@@ -12,9 +13,10 @@
 body {
   width: 100%;
   height: 100%;
-  font-family: "Roboto Mono";
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-size: 14px;
   font-weight: 600;
   background-color: var(--color-primary);
+  color: var(--color-secondary);
   scroll-behavior: smooth;
 }
