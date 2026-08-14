@@ -1,0 +1,28 @@
+footer {
+  width: 100%;
+  position: static;
+  bottom: 0;
+  background-color: rgb(186, 186, 186);
+  margin-top: 12rem;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-logo:hover {
+  scale: 1.2;
+  transition: 0.5s;
+}
+
+h3 {
+  text-align: center;
+  padding: 0.8rem 0;
+}
+
+h3 a {
+  text-decoration: none;
+  color: black;
+}

@@ -6,3 +6,11 @@ header {
 header * {
     margin: 1rem 0;
 }
+
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70px;
+    margin-left: 1rem;
+}

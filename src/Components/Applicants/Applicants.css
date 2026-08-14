@@ -1,4 +1,24 @@
-main {
-    width: 75%;
-    margin: auto;
+.applicants {
+  max-width: 300px;
+  text-align: center;
+  margin: auto;
+  padding: 1rem 0;
+  border: 1px solid black;
+}
+
+.applicants-list {
+  list-style: none;
+}
+
+button {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border: none;
+  border-radius: 10px;
+}
+
+@media (max-width: 750px) {
+  .applicants {
+    width: 100%;
+  }
 }

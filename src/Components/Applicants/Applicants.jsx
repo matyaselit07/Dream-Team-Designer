@@ -37,8 +37,8 @@ export default function Applicants() {
   if (error) return <p className="text-error">Hiba: {error}</p>;
 
   return (
-    <main>
-      <ul>
+    <div className="applicants">
+      <ul className="applicants-list">
         {users.map((user) => (
           <li key={user.login.uuid}>
             <div>
@@ -52,12 +52,14 @@ export default function Applicants() {
               </h2>
             </div>
             <div>
-              <button>Invite Candidate</button>
-              <button onClick={reloadApi}>Reject Candidate</button>
+              <button className="approve-button">Invite Candidate</button>
+              <button className="decline-button" onClick={reloadApi}>
+                Reject Candidate
+              </button>
             </div>
           </li>
         ))}
       </ul>
-    </main>
+    </div>
   );
 }
